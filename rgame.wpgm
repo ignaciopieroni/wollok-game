@@ -1,0 +1,4 @@
+import rider.* //Cerradura de kleene para importar todo el codigo fuente
+program programJuego{
+    juego.iniciar()
+}
