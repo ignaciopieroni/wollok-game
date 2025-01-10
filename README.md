@@ -16,7 +16,7 @@ El objetivo de este juego es utilizar conceptos del paradigma de programación o
     </thead>
     <tbody>
       <tr>
-        <td>Monedas</td>
+        <td>Puntos (1 Moneda = 10 Puntos)</td>
         <td>0</td>
         <td>100</td>
         <td>200</td>
